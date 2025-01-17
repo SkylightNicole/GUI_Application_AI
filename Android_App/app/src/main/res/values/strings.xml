@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">KOKOK</string>
+    <string name="Login">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="Forget"><u>Forget Password?</u></string>
+    <string name="Reg_Header">Register</string>
+    <string name="Reg_user">Username</string>
+    <string name="Reg_email">Email</string>
+    <string name="Reg_pass">Password</string>
+    <string name="Re_Reg_pass">Confirm &#xA;Password</string>
+    <string name="Back">Back</string>
+    <string name="Change_Pass">Change Password</string>
+    <string name="Reset_Pass">Reset Password</string>
+    <string name="OTP">OTP</string>
+    <string name="Send_OTP">Send OTP</string>
+    <string name="Reset">Reset</string>
+    <string name="Name">Name</string>
+    <string name="Surname">Surname</string>
+    <string name="Vehicle_Color">Vehicle Color</string>
+    <string name="Vehicle_Plate">Vehicle Plate</string>
+    <string name="Payment_met">Payment Method</string>
+    <string name="Price">Price</string>
+    <string name="Menu">Menu</string>
+    <string name="Min_kit">Mintakan Kitchen</string>
+    <string name="Place">Placeholder</string>
+</resources>
